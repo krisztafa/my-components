@@ -1,0 +1,1 @@
+Egyszerû footer (simple-footer) a gyorsabb és hatékonyabb munkához, szerzõi jogi információval, és néhány navigációs linkkel. Táblázatos megjelenítéssel, vertikális középre rendezéssel.
